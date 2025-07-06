@@ -1,4 +1,10 @@
 div{
     background-color: rgb(146, 89, 15);
-    padding: 50px;
+    padding: 30px;
+    margin: 30px;
+    border: 10px;
+    border-radius: 30px;
+}
+body{
+    background-color: aqua;
 }
